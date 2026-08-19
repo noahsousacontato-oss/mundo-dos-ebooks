@@ -103,3 +103,39 @@ body {
 .botao:hover {
     opacity: 0.8;
 }
+body {
+    background-color: black;
+    color: white;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px 40px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2, h3 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #dddddd;
+}
+.container {
+    padding: 30px 40px;
+}
